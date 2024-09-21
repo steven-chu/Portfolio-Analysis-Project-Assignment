@@ -5,6 +5,7 @@
 **Requirements:**
 1. Create a table showing constituent (stocks) risk analysis in the equal-weight portfolio analysis as of the
 current date.
+  
   a. Column 1 – Ticker
   b. Column 2 – Portfolio Weight (equally weighted)
   c. Column 3 – Annualized Volatility (using trailing 3-months)
@@ -17,6 +18,7 @@ current date.
   j. Column 10 – Annualized Total Return (using trailing 10-years)
 
 2. Create a table showing Portfolio Risk against the three ETFs:
+  
   a. Column 1 – ETF Ticker
   b. Column 2 – Correlation against ETF
   c. Column 3 – Covariance of Portfolio against ETF
